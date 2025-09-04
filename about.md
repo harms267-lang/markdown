@@ -14,3 +14,6 @@ or _italic_ (1 underscore)
 or __bold__ (2 underscores)
 or *italic* (1 asterisk)
 so i need to imply that formatting using plain text
+
+You can also put bold and italic at the front or end of a word (by a few letters).
+For example, *HTML* stands for **H**yper **T**ext **M**arkup **L**anguage
