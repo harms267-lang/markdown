@@ -73,3 +73,16 @@ from experiencing social media addiction and exposure to inflammatory content. B
 is the best way to get to the source of the issue.
 
 # My Reflection
+
+When I initially transferred this document to GitHub, there was a lot of work that needed to be done. For instance, there were no paragraphs; all lines continued on past the screen
+in one big "blob". I fixed this by creating more lines so that I could see my work, and then placing empty lines where the paragraph breaks were in the original document.
+I also had to get rid of the indents, as Markdown confused them for code. Once I had all of the initial formatting done, I applied headings and subheadings. The heading was simple,
+as I only had to take the title and add a single hashmark, but in the original document, I had no subheadings, so I reviewed my essay and placed appropriately titled subheadings
+between each paragraph. I also had no bolded or italicized words in the original text, so I skimmed my work again and placed them in places I felt fitted best. I saw the 
+perfect opportunity to place a link to the article in the beginning of the essay, a convenient place for users to find my main source. The photo I downloaded was from Pexel,
+and I chose it because it fitted the theme of my essay best. I knew I had to include a list in my GitHub document, which I didn't include in my original document, so I decided to
+format my explanatiion of "Facebook features" into list format and edited the text around it to make sense and flow seamlessly into this document. The last thing I added to the 
+document (that was not required but I thought fit well) was the block quote in the "Statistical Evidence" section. I saw it as a perfect opportunity to practice what I had learned
+in class a few days prior. Overall, formatting this document in Markdown was great practice, and included mostly additions, and hardly any deletions from the original document.
+Markdown formatting even enhanced my document more because it is better organized, tonally dynamic, and includes visual aspects.
+
